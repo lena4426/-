@@ -14,7 +14,7 @@
 
 ```bash
 pip3 install flask openpyxl reportlab
-
+```
 ### Запуск приложения
 Перейдите в папку проекта в терминале.
 
@@ -22,9 +22,9 @@ pip3 install flask openpyxl reportlab
 
 ```bash
 python seed_data.py
-
+```
 Запустите главное приложение:
 
 ```bash
 python app.py
-
+```
